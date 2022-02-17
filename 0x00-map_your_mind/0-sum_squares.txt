@@ -1,0 +1,9 @@
+BEGIN
+    INPUT numbers to find the squareroot
+    squareroot = sqrt numbers
+    find the squareroot of all the numbers entered
+    sum = squareroots
+    find now the sum of all the squareroots
+    print out the sum of the squareroots
+STOP
+    

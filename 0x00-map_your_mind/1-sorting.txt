@@ -1,0 +1,21 @@
+BEGIN
+  Initialize three variables lets say one, two and three
+  INPUT fron the user the three variables
+  IF one is less than two and three
+    IF one is greater than three
+      PRINT out three, one and two in order
+    ELSE
+      PRINT out one, three and two in order
+  ELIF one is less than three and two is less than three
+    IF one is greater than two
+      PRINT out two, one and three in order
+    ELSE
+      PRINT out one, two and three in order
+  ELIF two is less than one and three is less than one
+    IF three is greater than two
+      PRINT out two, three and one in order
+    ELSE
+      PRINT out three, two and one in order
+  ELSE
+    PRINT out one, two and three in order
+END   

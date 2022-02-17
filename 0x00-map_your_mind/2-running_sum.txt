@@ -1,0 +1,8 @@
+BEGIN
+  Enter command to prompt the user to enter numbers randomy
+  Initialize two variables let's say num amd sum
+  let sum = 0
+  WHILE num > 0 add num to the sum sum = num+0
+  ELSE PRINT out the sum
+END
+  
